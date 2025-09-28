@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* nice font/antialias */
+:root { color-scheme: light dark; }
+html, body, #root { height: 100%; }
+body { @apply bg-neutral-950 text-neutral-100 antialiased; }
+.card { @apply rounded-2xl bg-neutral-900/60 border border-neutral-800 shadow-lg; }
