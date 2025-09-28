@@ -32,7 +32,7 @@ With real-time Key Performance Indicators (KPIs), interactive charts, leaderboar
 **Database:**
 * MongoDB
 
-**Deployment (Optional):**
+**Deployment:**
 * Vercel (Frontend)
 * Render/Heroku (Backend)
 * MongoDB Atlas
